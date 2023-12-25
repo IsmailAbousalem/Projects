@@ -9,7 +9,7 @@ Here is my web app Connect! https://profound-strudel-955e2f.netlify.app/
 
 Connect is a platform to post your thoughts, discuss your feelings, and Connect with others. Feel free to register an account and let your thoughts be known! 
 
-Please view in web browser
+Please view in desktop web browser
 
 The source code for my Connect app is in my other repositories: 
 merng-server for the server side-code
