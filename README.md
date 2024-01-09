@@ -19,6 +19,8 @@ merng-client for the client-side GUI code
 
  
 Here is a demo video for my Nextcloud app, NextAD!: https://youtu.be/qCNzKnsJnFU?si=1aUhlrz4zs6appaH
+
+In this team project, we developed a Nextcloud-based solution for seamless Active Directory integration, focusing on real-time synchronization to reduce update latency. My role involved creating API endpoints for efficient data exchange, enhancing user attribute updates, and developing interactive features in Nextcloud. Additionally, I contributed to the interface design using CSS and JavaScript, improving user interaction and accessibility, and participated in developing remote Active Directory attribute modification features to enable effective off-site management.
  
 ------------------------------------------------------------------------------------------------------
 
