@@ -12,8 +12,8 @@ Connect is a platform to post your thoughts, discuss your feelings, and Connect 
 Please view in desktop web browser
 
 The source code for my Connect app is in my other repositories: 
-merng-server for the server side-code,
-merng-client for the client-side GUI code
+1. merng-server for the server side-code
+2. merng-client for the client-side GUI code
  
 ------------------------------------------------------------------------------------------------------
 
