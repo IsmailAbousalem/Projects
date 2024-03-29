@@ -3,6 +3,9 @@
 Greetings, everyone! I am Ismail Abousalem, and this repository stands as a curated collection for my upcoming projects. I intend to methodically enhance and expand this portfolio with each new endeavor, aiming for continual improvement and innovation.
 ------------------------------------------------------------------------------------------------------
 
+*In Progress*
+DevBuds, my upcoming project as part of the INIT Web Development team @FIU. DevBuds is an online collaboration platform for computer science students where they create teams based on the skills they need to build projects that will change their future!
+
 ------------------------------------------------------------------------------------------------------
 
 Here is my web app Connect! https://connect-app.netlify.app/
