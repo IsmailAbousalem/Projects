@@ -5,6 +5,7 @@ Greetings, everyone! I am Ismail Abousalem, and this repository stands as a cura
 ------------------------------------------------------------------------------------------------------
 
 *In Progress*
+
 DevBuds, my upcoming project as part of the INIT Web Development team @FIU. DevBuds is an online collaboration platform for computer science students where they create teams based on the skills they need to build projects that will change their future!
 
 ------------------------------------------------------------------------------------------------------
